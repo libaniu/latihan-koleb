@@ -1,2 +1,4 @@
 # latihan-koleb
-belajara kolabarasi git
+belajar kolabarasi git
+
+*Mantapnyooo
